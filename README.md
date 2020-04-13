@@ -1,4 +1,4 @@
-СПОВМ ЛР4 (Linux)
+СПОВМ ЛР1 (Linux)
 ----
 
 How to run?
@@ -29,5 +29,5 @@ and build binaries
 cmake --build ./cmake-build --target all -j 2
 ```
 
-`0004` binary will be stored in `build/` directory.
+`0001` binary will be stored in `build/` directory.
 
